@@ -9,4 +9,24 @@ Features
 - ⚡ Lightweight and easy to run on most devices  
 - 🛠️ Extendable for additional features like yawning detection or head pose analysis
 
+🛠️ Technologies Used
+> Python
+> OpenCV
+> dlib / Mediapipe (landmark detection)
+> Numpy
+> Pygame (for alert sound)
+
+📸 How It Works
+- Capture live video feed from webcam
+- Detect face and extract facial landmarks
+- Compute EAR & mouth ratio
+- Identify drowsiness patterns
+- Trigger warning when thresholds are exceeded
+
+🚀 Applications
+- Driver safety systems
+- Fleet monitoring
+- Automotive research
+- Standalone fatigue detection applications
+
 
