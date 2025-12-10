@@ -29,7 +29,12 @@ Features
 - Automotive research
 - Standalone fatigue detection applications
 
+detecting eye ratio live with using webcam
 <img width="614" height="505" alt="image" src="https://github.com/user-attachments/assets/6feee3d8-c7f1-4a02-8f19-5b22efec250f" />
+
+Trigger warning when thresholds are exceeded
+<img width="677" height="552" alt="image" src="https://github.com/user-attachments/assets/6eb8ceb0-1974-48a6-9be6-a491a7d8cdd2" />
+
 
 
 
