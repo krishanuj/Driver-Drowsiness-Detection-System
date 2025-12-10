@@ -29,4 +29,8 @@ Features
 - Automotive research
 - Standalone fatigue detection applications
 
+<img width="614" height="505" alt="image" src="https://github.com/user-attachments/assets/6feee3d8-c7f1-4a02-8f19-5b22efec250f" />
+
+
+
 
