@@ -29,7 +29,7 @@ Features
 - Automotive research
 - Standalone fatigue detection applications
 
-link to download dat file for detecting and extract facial landmarks:
+link to download dat file for detecting and extract facial landmarks: (shape_predictor_68_face_landmarks.dat)
 https://drive.google.com/file/d/11ulB8EGlhcW3sLrVEBOcpdnNZaQrGILk/view?usp=sharing
 
 
